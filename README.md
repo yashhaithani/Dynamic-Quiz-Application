@@ -6,12 +6,12 @@ This repository contains a dynamic Quiz Application built using the Spring Boot 
 
 Key Features
 
-CRUD Operations: Full Create, Read, Update, and Delete functionality for quiz management.
-Customized Quizzes: Users can tailor quizzes based on specific categories and difficulty levels.
-Dynamic Question Pool: A diverse and expandable set of questions to ensure variety in quiz content.
+1. CRUD Operations: Full Create, Read, Update, and Delete functionality for quiz management.
+2. Customized Quizzes: Users can tailor quizzes based on specific categories and difficulty levels.
+3. Dynamic Question Pool: A diverse and expandable set of questions to ensure variety in quiz content.
 
 Technology Stack
 
-Backend: Spring Boot
-Database: [MySQL]
+Backend: Java Spring Boot
+Database: MySQL
 API: RESTful architecture
